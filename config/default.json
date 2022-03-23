@@ -1,0 +1,11 @@
+{
+  "mongoURI": "mongodb+srv://kobi:Kobian054@cluster0.ze2y4.mongodb.net/Cluster0?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken",
+  "permission": "Admin",
+  "ErrorMsg": {
+    "Notoken": "No token, authorization denied",
+    "authentication": "User authentication failed",
+    "empty": "No Result",
+    "permission": "You do not have permission to do that"
+  }
+}
